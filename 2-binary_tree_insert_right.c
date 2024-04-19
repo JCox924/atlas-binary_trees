@@ -10,7 +10,7 @@
 *Return: pointer to new node
 */
 
-binary_tree_t *binary_tree_insert_rightt(binary_tree_t *parent, int value)
+binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 {
 	binary_tree_t *new_node;
 
