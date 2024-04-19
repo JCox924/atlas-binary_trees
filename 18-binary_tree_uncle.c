@@ -1,4 +1,4 @@
-#include "binary_trees.c"
+#include "binary_trees.h"
 #include "17-binary_tree_sibling.c"
 
 /*
