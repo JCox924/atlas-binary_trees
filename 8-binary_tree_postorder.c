@@ -1,5 +1,5 @@
 #include "binary_trees.h"
-
+#include "6-binary_trees_preorder.c"
 /*
 *binary_tree_postorder - traverses a tree in postorder fashion
 *
